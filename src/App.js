@@ -4,14 +4,14 @@ import axios from "axios";
 import TWTable from "@twister19/twtable";
 
 function App() {
-  const buttonClicked = (row) => {
+  // const buttonClicked = (row) => {
 
-      const clicked = (empId) =>{
-          console.log("empId",empId);
-      }
+  //     const clicked = (empId) =>{
+  //         console.log("empId",empId);
+  //     }
 
-      return(<a className="buttonLink" onClick={(event=>clicked(row))}>Test{row.empId}</a>);
-  };
+  //     return(<a className="buttonLink" onClick={(event=>clicked(row))}>Test{row.empId}</a>);
+  // };
 
   const getdata = async(twtrequest) =>{
 
