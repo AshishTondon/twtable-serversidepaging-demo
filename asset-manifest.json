@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/twtable-serversidepaging-demo/static/css/main.7419c0fa.chunk.css",
+    "main.js": "/twtable-serversidepaging-demo/static/js/main.9e252304.chunk.js",
+    "main.js.map": "/twtable-serversidepaging-demo/static/js/main.9e252304.chunk.js.map",
+    "runtime-main.js": "/twtable-serversidepaging-demo/static/js/runtime-main.40a7098e.js",
+    "runtime-main.js.map": "/twtable-serversidepaging-demo/static/js/runtime-main.40a7098e.js.map",
+    "static/css/2.a8951026.chunk.css": "/twtable-serversidepaging-demo/static/css/2.a8951026.chunk.css",
+    "static/js/2.1f556848.chunk.js": "/twtable-serversidepaging-demo/static/js/2.1f556848.chunk.js",
+    "static/js/2.1f556848.chunk.js.map": "/twtable-serversidepaging-demo/static/js/2.1f556848.chunk.js.map",
+    "static/js/3.88c321d2.chunk.js": "/twtable-serversidepaging-demo/static/js/3.88c321d2.chunk.js",
+    "static/js/3.88c321d2.chunk.js.map": "/twtable-serversidepaging-demo/static/js/3.88c321d2.chunk.js.map",
+    "index.html": "/twtable-serversidepaging-demo/index.html",
+    "static/css/2.a8951026.chunk.css.map": "/twtable-serversidepaging-demo/static/css/2.a8951026.chunk.css.map",
+    "static/css/main.7419c0fa.chunk.css.map": "/twtable-serversidepaging-demo/static/css/main.7419c0fa.chunk.css.map",
+    "static/js/2.1f556848.chunk.js.LICENSE.txt": "/twtable-serversidepaging-demo/static/js/2.1f556848.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40a7098e.js",
+    "static/css/2.a8951026.chunk.css",
+    "static/js/2.1f556848.chunk.js",
+    "static/css/main.7419c0fa.chunk.css",
+    "static/js/main.9e252304.chunk.js"
+  ]
+}
